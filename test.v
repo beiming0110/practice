@@ -1,4 +1,4 @@
 module()
-
+input a;
 
 endmodule
